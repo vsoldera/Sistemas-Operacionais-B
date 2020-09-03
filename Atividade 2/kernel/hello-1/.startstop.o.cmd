@@ -1,0 +1,1 @@
+cmd_/home/luiz/develop/kernel/hello-1/startstop.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/luiz/develop/kernel/hello-1/startstop.o /home/luiz/develop/kernel/hello-1/start.o /home/luiz/develop/kernel/hello-1/stop.o 
